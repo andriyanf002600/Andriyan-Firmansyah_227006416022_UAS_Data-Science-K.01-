@@ -3,7 +3,7 @@
 
 Repository ini berisi analisis Data Science untuk memprediksi status kelulusan mahasiswa menggunakan pendekatan *supervised learning*.
 
-## 📘 Notebook Utama Klik disini
+## 📘 Notebook Utama (Klik disini) 
 - [Lihat Notebook Analisis (GitHub Render)](UAS_ANDRIYANFIRMANSYAH_227006416022_DATASIENCE_K.01.ipynb)
 
 ## 🔗 Akses Google Colab (Opsional)
