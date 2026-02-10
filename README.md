@@ -6,7 +6,7 @@ Repository ini berisi analisis Data Science untuk memprediksi status kelulusan m
 ## 📘 Notebook Utama (Klik disini) 
 - [Lihat Notebook Analisis (GitHub Render)](UAS_ANDRIYANFIRMANSYAH_227006416022_DATASIENCE_K.01.ipynb)
 
-## 🔗 Akses Google Colab (Opsional)
+## 🔗 Akses Google Colab (Klik disini)
 Notebook ini juga dapat diakses melalui Google Colab:
 https://colab.research.google.com/drive/11mhXqlrmegKiK18xwUtCsNdKKagezMXX?usp=sharing
 
