@@ -17,7 +17,13 @@ https://colab.research.google.com/drive/11mhXqlrmegKiK18xwUtCsNdKKagezMXX?usp=sh
 - Google Colab  
 
 ## 📊 Cakupan Analisis
-- Validasi dan pembersihan data  
-- Konstruksi data  
-- Pemodelan Logistic Regression  
-- Evaluasi model dan visualisasi  
+1.	Menelaah Data
+2.	Menvalidasi Data
+3.	Menentukan Objek Data
+4.	Membersihkan Data
+5.	Mengkonstruksi Data
+6.	Membangun skenario model
+7.	Membangun Model
+8.	Mengevaluasi Hasil Pemodelan
+9.	Melakukan Proses Review Pemodelan
+
