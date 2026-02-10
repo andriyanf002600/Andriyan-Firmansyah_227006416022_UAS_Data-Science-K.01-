@@ -1,19 +1,23 @@
-# ANDRIYAN FIRMANSYAH -227006416022
+# ANDRIYAN FIRMANSYAH – 227006416022  
 # UAS Data Science – Campus Recruitment
 
-Repository ini berisi analisis Data Science untuk memprediksi status kelulusan mahasiswa menggunakan pendekatan supervised learning.
+Repository ini berisi analisis Data Science untuk memprediksi status kelulusan mahasiswa menggunakan pendekatan *supervised learning*.
 
 ## 📘 Notebook Utama
-- [Lihat Notebook Analisis](UAS_Data_Science_Campus_Recruitment.ipynb)
+- [Lihat Notebook Analisis (GitHub Render)](UAS_Data_Science_Campus_Recruitment.ipynb)
+
+## 🔗 Akses Google Colab (Opsional)
+Notebook ini juga dapat diakses melalui Google Colab:
+https://colab.research.google.com/drive/11mhXqlrmegKiK18xwUtCsNdKKagezMXX?usp=sharing
 
 ## 🔧 Tools
-- Python
-- Pandas
-- Scikit-learn
-- Google Colab
+- Python  
+- Pandas  
+- Scikit-learn  
+- Google Colab  
 
 ## 📊 Cakupan Analisis
-- Validasi & pembersihan data
-- Konstruksi data
-- Pemodelan Logistic Regression
-- Evaluasi model dan visualisasi
+- Validasi dan pembersihan data  
+- Konstruksi data  
+- Pemodelan Logistic Regression  
+- Evaluasi model dan visualisasi  
