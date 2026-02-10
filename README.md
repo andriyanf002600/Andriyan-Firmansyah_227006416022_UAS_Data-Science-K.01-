@@ -1,4 +1,4 @@
-#ANDRIYAN FIRMANSYAH -227006416022
+# ANDRIYAN FIRMANSYAH -227006416022
 # UAS Data Science – Campus Recruitment
 
 Repository ini berisi analisis Data Science untuk memprediksi status kelulusan mahasiswa menggunakan pendekatan supervised learning.
